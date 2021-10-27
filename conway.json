@@ -1,0 +1,6 @@
+{
+    "grid-size" : "32",
+    "interval" : "2",
+    "glider" : "false",
+    "gosper" : "false"
+}
